@@ -155,6 +155,11 @@ In fact, you can quickly draft a good-looking document with it, and then make fi
 
 Another major goal of this project is to make LaTeX available to the non-geeky masses. Math majors who just want to crank out equations on their computers can use eX and rejoice.
 
+A quick note
+============
+
+eX is pronounced "ek", not "ex" (the same way LaTeX is pronounced "latek").
+
 Let's get started designing!
 ============================
 
