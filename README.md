@@ -42,7 +42,7 @@ Instead of this:
 
 					\begin{align*}
 						\label{eq:quadratic-formula}
-						x = \frac{{ - b \pm \sqrt {b^2 - 4a c} }}{{2 a}} \text{ (roots of $a x^2 + b x + c$)}
+						x = \frac{{ - b \pm \sqrt {b^2 - 4a c} }}{{2 a}}
 					\end{align*}
 				\item
 					In this example, $x$ is an inline variable and $x = \sum_{m = 0}^{\infty}{\sin{m}}$ is an inline equation.
