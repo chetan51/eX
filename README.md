@@ -159,19 +159,3 @@ A quick note
 ============
 
 eX is pronounced "ek", not "ex" (the same way LaTeX is pronounced "latek").
-
-Let's get started designing!
-============================
-
-To start this project off, I'd like to detail all the use cases so that I can convert them into unit tests and then into actual code (yay for TDD!). Later on, most of this design-driven README can become the actual README / documentation.
-
-So here we go...
-
-Document structure
-------------------
-
-Math equations
---------------
-
-Templates / Includes
---------------------
