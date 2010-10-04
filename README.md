@@ -159,3 +159,8 @@ A quick note
 ============
 
 eX is pronounced "ek", not "ex" (the same way LaTeX is pronounced "latek").
+
+So what's the current status with eX?
+=====================================
+
+Currently, I'm designing eX and its use cases. See the [wiki](http://github.com/chetan51/eX/wiki/Design-Notes) if you're interested in the design notes.
